@@ -1,0 +1,36 @@
+body {
+    background-color: #264653;
+    color: #2a9d8f;
+}
+
+figure {
+    background: #f4a261;
+    border: thin silver solid;
+    display: block;
+    color: #000
+}
+
+#headContainer {
+    text-align: center;
+}
+
+ #keanuPic {
+     width: 75%;
+ }
+
+
+    
+    
+    
+   
+}
+
+#credit {
+  color: #204829;
+  display: block;
+  font: italic;
+  font-size: smaller;
+}
+   
+
+
