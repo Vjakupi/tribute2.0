@@ -1,6 +1,8 @@
 body {
     background-color: #264653;
     color: #2a9d8f;
+    line-height: 1.5;
+    
 }
 
 figure {
@@ -10,22 +12,41 @@ figure {
     color: #000
 }
 
-#headContainer {
+ul, li {
+    list-style-position: inside;
+    
+}
+
+#img-div {
     text-align: center;
 }
 
- #keanuPic {
-     width: 75%;
+ #image {
+   
+        width: 100%;
+        height: auto;
+        max-width: 625px;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+        
  }
 
 
-    
+ #tribute-info {
+    display: block;
+    text-align: center;
+ }
+
+ #timeline {
+     text-align: left;
+ }
     
     
    
-}
 
-#credit {
+
+#img-caption {
   color: #204829;
   display: block;
   font: italic;
