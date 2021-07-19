@@ -1,0 +1,57 @@
+body {
+    background-color: #264653;
+    color: #2a9d8f;
+    line-height: 1.5;
+    
+}
+
+figure {
+    background: #f4a261;
+    border: thin silver solid;
+    display: block;
+    color: #000
+}
+
+ul, li {
+    list-style-position: inside;
+    
+}
+
+#img-div {
+    text-align: center;
+}
+
+ #image {
+   
+        width: 100%;
+        height: auto;
+        max-width: 625px;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+        
+ }
+
+
+ #tribute-info {
+    display: block;
+    text-align: center;
+ }
+
+ #timeline {
+     text-align: left;
+ }
+    
+    
+   
+
+
+#img-caption {
+  color: #204829;
+  display: block;
+  font: italic;
+  font-size: smaller;
+}
+   
+
+
